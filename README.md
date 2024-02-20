@@ -10,5 +10,5 @@ R Code for developing and evaluating prediction models for kidney survival of AR
 `calculate-RSF-predictions.R` contains code to calculate predicted scores from pooled random survival forests.
 
 ## Data
-Patient data is excluded due to privacy issues. However, performance data of different predictor sets is available. Furthermore, the final Cox model with cutoffs for risk groups are available. The final RSF model is excluded due to its large size. 
+Patient data is excluded due to privacy issues. However, performance data of different predictor sets is available. Furthermore, the final Cox model with cutoffs for risk groups is available. The final RSF model is excluded due to its large size. 
 
